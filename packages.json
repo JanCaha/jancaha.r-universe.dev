@@ -1,0 +1,22 @@
+[
+  {
+    "package": "FuzzyAHP",
+    "url": "https://github.com/JanCaha/FuzzyAHP"
+  },
+  {
+    "package": "rasterShade",
+    "url": "https://github.com/JanCaha/rasterShade"
+  },
+  {
+    "package": "SpatialKDE",
+    "url": "https://github.com/JanCaha/SpatialKDE"
+  },
+  {
+    "package": "CzechData",
+    "url": "https://github.com/JanCaha/CzechData"
+  },
+  {
+    "package": "qgis",
+    "url": "https://github.com/JanCaha/r_package_qgis"
+  }
+]
